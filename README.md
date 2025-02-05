@@ -2,8 +2,6 @@
 Emtech 2
 
 ***Name: Ralph Khristian UY 
-Alias: Khearo
-Age: 19
-Zodiac Sign: Aries
-Favorite food: siomai and sisig 
-Hobbies: playing basketball and videogames***
+my alias is Khearo and I'm 20 years old
+my favorite foods are siomai and sisig and my 
+Hobbies are playing basketball and videogames***
